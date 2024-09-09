@@ -3,18 +3,18 @@
 Welcome to my Data Science projects repository! Here you'll find a collection of projects I completed as part of the Triple Ten Data Science program. Each project demonstrates different aspects of data science, from machine learning to exploratory data analysis (EDA).
 
 ## Table of Contents
-1. [Loan Default Prediction](#loan-default-prediction)
+1. [Megaline Plan Recommendation](#megaline-plan-recommendation)
 2. [Customer Churn Analysis](#customer-churn-analysis)
-3. [House Price Prediction](#house-price-prediction)
+3. [Rusty Bargain Used Car Price Prediction](#rusty-bargain-used-car-price-prediction)
 4. [Sales Data Forecasting](#sales-data-forecasting)
 
 ---
 
-## 1. Loan Default Prediction
-**Description**: This project focuses on building a predictive model to assess loan default risk. By using classification techniques, we aim to predict whether a loan applicant will default based on various features such as credit score, loan amount, and income.  
-**Tools/Techniques**: Python, Scikit-learn, Logistic Regression, Random Forest  
-**Objective**: Minimize loan default rates by improving loan approval processes.  
-[View Project](#)  
+## 1. Megaline Plan Recommendation
+**Description**: Megaline, a mobile carrier, is looking to recommend new plans (Smart or Ultra) to their subscribers who are still using legacy plans. The goal of this project is to develop a classification model that analyzes subscribers' behavior and recommends the most suitable plan. The model needs to achieve an accuracy of at least 75% on the test dataset.  
+**Tools/Techniques**: Python, Scikit-learn, Decision Trees, Random Forest, Logistic Regression  
+**Objective**: Develop a recommendation model with the highest possible accuracy to help Megaline optimize its plan offerings.  
+[View Project](#)
 
 ---
 
@@ -26,10 +26,10 @@ Welcome to my Data Science projects repository! Here you'll find a collection of
 
 ---
 
-## 3. House Price Prediction
-**Description**: A regression-based machine learning model was developed to predict house prices based on features like location, square footage, and number of bedrooms. The project focused on building an accurate model using techniques like linear regression and feature engineering.  
-**Tools/Techniques**: Python, Scikit-learn, Linear Regression, Feature Engineering  
-**Objective**: Provide accurate house price predictions to assist real estate professionals and buyers.  
+## 3. Rusty Bargain Used Car Price Prediction
+**Description**: Rusty Bargain, a used car sales service, is developing an app to attract new customers by allowing them to quickly find the market value of their cars. Using historical data on technical specifications, trim versions, and prices, we built a model to predict car values. The project emphasizes prediction quality, speed, and training time.  
+**Tools/Techniques**: Python, Scikit-learn, Linear Regression, Random Forest, Model Optimization  
+**Objective**: Build an efficient and accurate model to determine the market value of used cars, balancing prediction speed and training time.  
 [View Project](#)
 
 ---
